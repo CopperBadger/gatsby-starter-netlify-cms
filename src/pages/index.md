@@ -14,7 +14,9 @@ description: >-
   @copperbadger. Oh and if you see anything about coffee on this site just
   ignore it-- it's just what the template came with lol
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/chemex.jpg
+      text: Random blurb
   heading: sdf
   description: sdf
 main:
