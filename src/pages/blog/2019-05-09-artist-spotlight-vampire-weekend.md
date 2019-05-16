@@ -44,7 +44,7 @@ Vampire Weekend has always included one or two slower, more reflective tracks on
 
 Vampire Weekend's latest album came out a few weeks ago, and I've been listening to it for the past four days collecting enough evidence to determine if Vampire Weekend and I have diverged as many of my other favorite bands have, or if we're continuing to grow together. Country-adjacent offerings like the leader "Hold You Now" and "Married in a Gold Rush" worried me, but those fears are assuaged by the stunning and inventive intro to "[Flower Moon](https://youtu.be/uxgGmqyHEqk)", "My Mistake", and the album's swaying and pastoral closer "Jeruselam, New York, Berlin" which one YouTube commenter identifies as "the most vampire weekend song title" (I'm inclinded to agree)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yqw4ZeEAEJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KIGNNOZ0948" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A week later and I figured out how much I loved "Bambina," abrupt and ripped in the middle with an almost Rogue Wave-esque guitar break, "This Life" completely bursting with joyful energy (and enough creative songwriting to legitimize it), and "Unbearably White" whose electric tremolo-string soli after the first chorus has become a little musical treasure to me. Here's my track-by-track breakdown:
 
