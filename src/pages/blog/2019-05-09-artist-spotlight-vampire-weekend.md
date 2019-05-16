@@ -14,7 +14,7 @@ I think before I graduated high school, even before I listened to more than a co
 
 > I see a mansard roof through the trees / I see a salty message written in the eaves / The ground beneath my feet / The hot garbage and concrete / And now the tops of buildings, I can see them too. *Mansard Roof*
 
-I transferred around a couple of times before I got my bachelor's in computer science, but my first university was a beatiful campus in the countryside that exuded the sort of academic energy that I believed a good university should. A fifty-year-old library with brutalist concrete features and musty books; hidden windowed alcoves furnished for studying; central dining hall by the clock tower overlooking the reflecting pond. The downtown campus, 30 minutes by bus, with uncountable hallways. The classroom building with the secret top-floor room that was always locked and could only be accessed by a single stairway.
+I transferred around a couple of times before I got my bachelor's in computer science, but my first university was a beautiful campus in the countryside that exuded the sort of academic energy that I believed a good university should. A fifty-year-old library with brutalist concrete features and musty books; hidden windowed alcoves furnished for studying; central dining hall by the clock tower overlooking the reflecting pond. The downtown campus, 30 minutes by bus, with uncountable hallways. The classroom building with the secret top-floor room that was always locked and could only be accessed by a single stairway.
 
 Vampire Weekend was the perfect narrator for my years there. Ezra's evocative, brainiac lyrics and the band's inventive instrumental layed over the contours of academic life ("Spanish brownstone with chairs of leather / and Spanish ways to move along" -- *One (Blake's Got a New Face)*) in a way that made me feel immediately informed and confident walking from class to class, grabbing dinner at the student commons, or outlining presentations in the science building. Vampire Weekend was at once the music of some phantom young and intellectual in-crowd with a chronic obsession with tennis and history class (a sentiment Ezra actually echoed in [an interview with The Feed](https://youtu.be/cEWMmCJqs6E?t=148), describing their debut as "college preppy dress-up"), but also the music of a very pivotal time in my life.
 
@@ -42,7 +42,7 @@ Vampire Weekend has always included one or two slower, more reflective tracks on
 
 ## Four Years Later: "Father of the Bride"
 
-Vampire Weekend's latest album came out a few weeks ago, and I've been listening to it for the past four days collecting enough evidence to determine if Vampire Weekend and I have diverged as many of my other favorite bands have, or if we're continuing to grow together. Country-adjacent offerings like the leader "Hold You Now" and "Married in a Gold Rush" worried me, but those fears are assuaged by the stunning and inventive intro to "[Flower Moon](https://youtu.be/uxgGmqyHEqk)", "My Mistake", and the album's swaying and pastoral closer "Jeruselam, New York, Berlin" which one YouTube commenter identifies as "the most vampire weekend song title" (I'm inclinded to agree)
+Vampire Weekend's latest album came out a few weeks ago, and I've been listening to it for the past four days collecting enough evidence to determine if Vampire Weekend and I have diverged as many of my other favorite bands have, or if we're continuing to grow together. Country-adjacent offerings like the leader "Hold You Now" and "Married in a Gold Rush" worried me, but those fears are assuaged by the stunning and inventive intro to "[Flower Moon](https://youtu.be/uxgGmqyHEqk)", "My Mistake", and the album's swaying and pastoral closer "Jerusalem, New York, Berlin" which one YouTube commenter identifies as "the most vampire weekend song title" (I'm inclinded to agree)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KIGNNOZ0948" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -68,7 +68,7 @@ Note: This took a long time to write and I'm probably not going to do it again.
 * **We Belong Together** -- I don't like this track. It sounds like Ezra's singing a cutesy love song to this new country vibe and even if it is peppered with VW quirks here and there, I'm just not on board.
 * **Stranger** -- Same as above. These two sound like they're off a different damn album, quacky saxophones and all. I don't even know if I've listened to this one all the way through.
 * **Spring Snow** -- Not heard this one a lot, but I dig the weird autotune intro. I could see it becoming another late favorite.
-* **Jeruselam, New York, Berlin** -- An old-school VW title with classic VW lyrics over a distinctive VW booping and tinkling instrumental that still somehow feels more apiece here than it would have in any of their previous releases.
+* **Jerusalem, New York, Berlin** -- An old-school VW title with classic VW lyrics over a distinctive VW booping and tinkling instrumental that still somehow feels more apiece here than it would have in any of their previous releases.
 
 \* op. cit., "Viva La Vida" by Coldplay, which was simultaneously the album's most popular track but also one that I quickly got bored with and usually skipped.
 
