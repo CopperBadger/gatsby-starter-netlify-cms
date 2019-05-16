@@ -6,7 +6,7 @@ description: >-
   Reviewing Vampire Weekend's discography as it followed me through college to
   where I am today.
 featuredpost: true
-featuredimage: /img/little-mac-bridge.jpg
+featuredimage: /img/mvotc.jpg
 ---
 ## Debut: "Vampire Weekend"
 
